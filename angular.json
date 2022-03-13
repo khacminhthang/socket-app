@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "socket-app"
+    }
+  },
+  "defaultProject": "socket-app",
+  "cli": {
+    "analytics": "951efa5e-089c-40cf-949f-3de6f86a2c94"
+  }
 }
